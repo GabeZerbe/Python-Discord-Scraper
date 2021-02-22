@@ -1,1 +1,2 @@
-# Python-Discord-Scraper
+# discord-scraper
+ 
